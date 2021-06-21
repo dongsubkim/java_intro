@@ -10,5 +10,5 @@ public interface TV {
 
     public void changeVolume(int volume);
 
-    public ovid changeChannel(int channel);
+    public void changeChannel(int channel);
 }
